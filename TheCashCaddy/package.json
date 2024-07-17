@@ -3,7 +3,9 @@
     "@vitejs/plugin-react-swc": "^3.7.0"
   },
   "dependencies": {
+    "@apollo/client": "^3.10.8",
     "axios": "^1.7.2",
+    "graphql": "^16.9.0",
     "jsonwebtoken": "^9.0.2"
   }
 }
