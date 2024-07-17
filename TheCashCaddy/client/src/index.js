@@ -2,6 +2,7 @@ import React from 'react';
 import { ApolloProvider } from '@apollo/client';
 import client from './apollo/apolloClient';
 import App from './App';
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 const root = document.getElementById('root');
 
