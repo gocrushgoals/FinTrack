@@ -6,9 +6,10 @@
   "scripts": {
     "start": "node server.js",
     "seed": "node seeds/seed.js",
+    "dev": "nodemon server.js",
     "watch": "nodemon server.js"
   },
-  "author": "",
+  "author": "Maven",
   "license": "ISC",
   "dependencies": {
     "@apollo/server": "^4.7.1",
